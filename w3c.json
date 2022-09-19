@@ -1,8 +1,8 @@
 {
-  "group": 53154,
+  "group": 106,
   "contacts": [
-    "yourGHusername"
+    "plehegar"
   ],
-  "policy": "open",
-  "repo-type": "note"
+  "policy": "restricted",
+  "repo-type": "others"
 }

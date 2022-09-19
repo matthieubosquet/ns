@@ -1,13 +1,9 @@
 
-# MyNote
+# /ns
 
-This is the repository for MyNote.
+This is the repository for https://www.w3.org/
 
-## Remove everything from this line when you're done
+DO NOT MERGE new namespaces in this repository without proper approval from @swickr .
 
-Please update the following files:
+NOTE: This is work-in-progress and NOT deployed yet on https://www.w3.org/ .
 
-* w3c.json : make sure group ID and contacts are correct
-* index.html : update the respec config as needed
-* README.md : remove these instructions and update as needed
-* .travis.yml : for automatic publishing, you'll need the [proper group decision email](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval) and you'll need to [secure your TOKEN](https://github.com/w3c/echidna/wiki/How-to-use-Echidna-with-ReSpec-and-GitHub#working-group-approval)
