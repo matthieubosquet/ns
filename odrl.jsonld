@@ -12,7 +12,7 @@
     "schema":  "http://schema.org/",
     "cc":      "http://creativecommons.org/ns#",
 
-    "uid":     "@id",
+    "uid":     {"@type": "@id", "@id": "odrl:uid"},
     "type":    "@type",
 
     "Policy":           "odrl:Policy",
